@@ -6,7 +6,7 @@ I've worn many hats in my career in the spaces of education and technology. Alth
 
 Coming from an electronic engineering degree, I have been fortunate to have an all-rounded technological prowess and a knack for applying technology effectively in real-world scenarios. This ability was one of the most highlighted skills coming from my senior peers. The second of which was the ability to work productively with anyone in a team.
 
-My current software forte is **Ruby on Rails** , which is soon to be coupled with JavaScript and React
+My current software forte is **Ruby on Rails**, which is soon to be coupled with JavaScript and React
 
 If you believe I will be a **great fit for your team** (and project), please reach out to me via [email](mailto:consult.ikraam@gmail.com), and I will get back to you in a flash!
 
