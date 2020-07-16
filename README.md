@@ -4,7 +4,7 @@ My name is Ikraam ([Porfolio](https://ikraamghoor.com)). I am a **full-stack dev
 
 I've worn many hats in my career in the spaces of education and technology. Although I am a proud jack of all trades, my experiences have led me to dive into software development, where I believe I can make the most impact.
 
-Coming from an electronic engineering degree, I have been fortunate to have an all-rounded technological prowess and a knack for applying technology effectively in real-world scenarios. This ability was one of the most highlighted skills coming from my senior peers. The second of which was the ability to work productively with anyone in a team.
+Coming from an electronic engineering degree, I have been fortunate to have an all-rounded technological ability and a knack for applying technology effectively in real-world scenarios. This ability was one of the most highlighted skills coming from my senior peers. The second of which was the ability to work productively with anyone in a team.
 
 My current software forte is **Ruby on Rails**, which is soon to be coupled with JavaScript and React
 
