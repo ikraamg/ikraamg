@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Ikraam ([Porfolio](https://ikraamghoor.com)). I am a **full-stack developer** and Electronic Engineer.
+My name is Ikraam. I am a **full-stack developer** and Electronic Engineer.
 
-My current forte is **Ruby on Rails**, with **React**.
+I specialise in custom e-commerce sites using [Solidus](solidus.io) using **Ruby on Rails**, with **React**.
 
 <!--
 If you believe I will be a **great fit for your team** (and project), please reach out to me via [email](mailto:consult.ikraam@gmail.com), and I will get back to you in a flash!
