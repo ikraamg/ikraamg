@@ -2,7 +2,6 @@
 
 My name is Ikraam. I am a **Full-Stack Ruby Developer** and Electronic Engineer.
 
-I specialise in custom e-commerce sites using the [Solidus](solidus.io) which is built on **Ruby on Rails**.
 
 <!--
 If you believe I will be a **great fit for your team** (and project), please reach out to me via [email](mailto:consult.ikraam@gmail.com), and I will get back to you in a flash!
