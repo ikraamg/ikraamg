@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-My name is Ikraam. I am a **Full-Stack Ruby Developer** and Electronic Engineer.
+My name is Ikraam. I am a **Full-Stack Developer** and Electronic Engineer.
 
+I provide a one-man consultancy service.
+If you would like to work with me, please reach out via socials, or [email](mailto:consult.ikraam@gmail.com)
+
+Have a great 2025! ✨
 
 <!--
 If you believe I will be a **great fit for your team** (and project), please reach out to me via [email](mailto:consult.ikraam@gmail.com), and I will get back to you in a flash!
