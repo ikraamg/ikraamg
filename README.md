@@ -3,6 +3,7 @@
 My name is Ikraam. I am a **Full-Stack Developer** and Electronic Engineer.
 
 I am currently looking to dedicate my time to a team with a great mission.
+
 If you would like to work with me, please reach out via socials, or [email](mailto:consult.ikraam@gmail.com)
 
 Have a great 2025! ✨
